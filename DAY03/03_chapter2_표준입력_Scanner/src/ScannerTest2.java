@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class ScannerTest2 {
+
+	public static void main(String[] args) {
+		// Scanner 클래스 이용한 키보드 입력값 얻기
+		/*
+		 *  1. 기본적으로 키보드에서 입력 데이터는 모두 문자열로 처리한다.
+		 *  2. Scanner는 숫자용 메서드가 제공되고
+		 *             문자용 메서드가 제공되고
+		 *      
+		 *   Scanner sc = new Scanner(System.in);
+		 *   
+		 *   int n = sc.nextInt(); 
+		 *  
+		 *   String line = sc.nextLine();
+		 *   String s = sc.next();
+		 */
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("이름을 입력하시오");
+		String name = sc.next();
+		System.out.println(name);
+	}
+
+}
