@@ -159,4 +159,8 @@ public class PDT_boolean {
 		 
 	상수는 final 키워드, read only만 가능하다.
 	상수인 final 확장되서 enum 타입형식으로 사용된다.
+	
+	
+	
+	
      
