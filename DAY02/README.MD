@@ -92,7 +92,9 @@ public class PDT_boolean {
  
  변수의 종류
  
- 1)로컬변수(local variable)
+ /*
+		 *   변수 종류 3가지(*******)
+		 *   1)로컬변수(local variable)
 		 *    - 메서드 안에서 선언
 		 *    - 저장되는 메모리명: 스택(stack )
 		 *    - 변수의 삶(variable lifecycle)은 
@@ -127,6 +129,7 @@ public class PDT_boolean {
 		 *     문자: /u0000
 		 *     
 		 *     참조: null  
+		 */
      
      형변환
      
