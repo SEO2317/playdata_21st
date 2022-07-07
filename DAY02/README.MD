@@ -102,7 +102,7 @@ public class PDT_boolean {
 		 *      (자동으로 호출되는 유일한 메서드가 main 메서드, 역으로 main메서드를
 		 *      제외한 메서드는 반드시 호출해야 수행된다.)
 		 *    - 주의할 점은 반드시 사용전에 초기화해야 된다.
-		 *      
+		 *      <br>
 		 *   2)인스턴스변수(instance variable)
 		 *    - 메서드 밖에서 선언
 		 *    - 저장되는 메모리명: 힙(heap )
@@ -116,7 +116,7 @@ public class PDT_boolean {
 		 *     문자: /u0000
 		 *     
 		 *     참조: null
-		 *     
+		 *     <br>
 		 *   3)클래스변수(class variable, static variable)
 		 *    - 메서드 밖에서 선언 + static 키워드 지정
 		 *    - 저장되는 메모리명: method area
@@ -129,7 +129,7 @@ public class PDT_boolean {
 		 *     문자: /u0000
 		 *     
 		 *     참조: null  
-		 */
+		 */	<br>
      
      형변환
      
